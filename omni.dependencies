@@ -1,0 +1,14 @@
+[
+	{
+		"remote":"github",
+		"repository":"LineageOS/android_hardware_samsung",
+		"target_path":"hardware/samsung",
+		"revision":"cm-14.1"
+	},
+	{
+		"remote":"github",
+		"repository":"zeroblade1984/android_kernel_samsung_universal8895",
+		"target_path":"kernel/samsung/universal8895_greatlte",
+		"revision":"android-7.1"
+	}
+]
